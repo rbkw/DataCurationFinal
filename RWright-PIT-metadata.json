@@ -1,0 +1,78 @@
+{
+  "metadataBlocks": {
+    "citation": {
+      "displayName": "Citation Metadata",
+      "fields": [
+        {
+          "typeName": "title",
+          "multiple": false,
+          "typeClass": "primitive",
+          "value": "2007-2019-Point-in-Time-Estimates-by-state"
+        },
+        {
+          "typeName": "author",
+          "multiple": true,
+          "typeClass": "compound",
+          "value": [
+            {
+              "authorName": {
+                "typeName": "authorName",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "US Dept of Housing and Urban Development"
+              }
+            }
+          ]
+        },
+        {
+          "typeName": "datasetContact",
+          "multiple": true,
+          "typeClass": "compound",
+          "value": [
+            {
+              "datasetContactName": {
+                "typeName": "datasetContactName",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "Wright, Rebecca"
+              },
+              "datasetContactEmail": {
+                "typeName": "datasetContactEmail",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "rebecca.k.wright@du.edu"
+              }
+            }
+          ]
+        },
+        {
+          "typeName": "dsDescription",
+          "multiple": true,
+          "typeClass": "compound",
+          "value": [
+            {
+              "dsDescriptionValue": {
+                "typeName": "dsDescriptionValue",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "This report outlines the key findings of the 2019 Point-In-Time (PIT) count and Housing Inventory Count (HIC) conducted in January 2019. Specifically, this report provides 2019 national, state, and CoC-level PIT and HIC estimates of homelessness, as well as estimates of chronically homeless persons, homeless veterans, and homeless children and youth."
+              }
+            }
+          ]
+        },
+        {
+          "typeName": "depositor",
+          "multiple": false,
+          "typeClass": "primitive",
+          "value": "Wright, Rebecca"
+        },
+        {
+          "typeName": "dateOfDeposit",
+          "multiple": false,
+          "typeClass": "primitive",
+          "value": "2017-04-19"
+        }
+      ]
+    }
+  }
+}
