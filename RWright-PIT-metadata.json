@@ -54,9 +54,7 @@
                 "multiple": false,
                 "typeClass": "primitive",
                 "value": "Census Data" }
-            }
-          ]
-          "value": [
+            },
             {
               "dsresourceTypeGeneral": {
                 "typeName": "dsDescriptionValue",
