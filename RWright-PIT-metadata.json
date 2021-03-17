@@ -4,19 +4,26 @@
       "displayName": "Citation Metadata",
       "fields": [
         {
+          "typeName": "identifier",
+          "multiple": false,
+          "typeClass": "primitive",
+          "value": "https://github.com/rbkw/DataCurationFinal/blob/e81fe1219686d462014e117cc6699a21dc567519/2007-2019-Point-in-Time-Estimates-by-state.xlsx"
+        },
+        
+        {
           "typeName": "title",
           "multiple": false,
           "typeClass": "primitive",
           "value": "2007-2019-Point-in-Time-Estimates-by-state"
         },
         {
-          "typeName": "author",
+          "typeName": "creator",
           "multiple": true,
           "typeClass": "compound",
           "value": [
             {
-              "authorName": {
-                "typeName": "authorName",
+              "creatorName": {
+                "typeName": "creatorName",
                 "multiple": false,
                 "typeClass": "primitive",
                 "value": "US Dept of Housing and Urban Development"
@@ -25,23 +32,53 @@
           ]
         },
         {
-          "typeName": "datasetContact",
+          "typeName": "publisher",
+          "multiple": false,
+          "typeClass": "primitive",
+          "value": "HUD Exchange"
+        },
+        {
+          "typeName": "publicationYear",
+          "multiple": false,
+          "typeClass": "primitive",
+          "value": "2019"
+        },
+        {
+          "typeName": "resourceType",
           "multiple": true,
           "typeClass": "compound",
           "value": [
             {
-              "datasetContactName": {
-                "typeName": "datasetContactName",
+              "dsresourceType": {
+                "typeName": "dsDescriptionValue",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "Census Data" }
+            }
+          ]
+          "value": [
+            {
+              "dsresourceTypeGeneral": {
+                "typeName": "dsDescriptionValue",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "Dataset" }
+            }
+          ]
+        },
+        {
+          "typeName": "datasetContributor",
+          "multiple": true,
+          "typeClass": "compound",
+          "value": [
+            {
+              "datasetContributorType": {
+                "typeName": "datasetContactPerson",
                 "multiple": false,
                 "typeClass": "primitive",
                 "value": "Wright, Rebecca"
               },
-              "datasetContactEmail": {
-                "typeName": "datasetContactEmail",
-                "multiple": false,
-                "typeClass": "primitive",
-                "value": "rebecca.k.wright@du.edu"
-              }
+              
             }
           ]
         },
@@ -60,18 +97,8 @@
             }
           ]
         },
-        {
-          "typeName": "depositor",
-          "multiple": false,
-          "typeClass": "primitive",
-          "value": "Wright, Rebecca"
-        },
-        {
-          "typeName": "dateOfDeposit",
-          "multiple": false,
-          "typeClass": "primitive",
-          "value": "2017-04-19"
-        }
+       
+       
       ]
     }
   }
