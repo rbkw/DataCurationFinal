@@ -6,5 +6,5 @@ Files in this repository:
 2. Metadata file (JSON).
 3. Data Profile. Brief description of dataset.
 4. Repository Profile. Brief description of dataverse.harvard.edu, intended home for this dataset.
-5. Additional Information--Citation, long-term considerations, human subject considerations.
+5. Additional Information--Citation, metadata note, copyright/public domain notice, long-term considerations, human subject considerations.
 6. Copyright License (Creative Commons)
