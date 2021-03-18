@@ -1,0 +1,13 @@
+Recommended data citation: US Dept of Housing and Urban Development (2019): 2007 - 2019 Point-in-Time Estimates by State. HUD Exchange. https://www.hudexchange.info/resource/5948/2019-ahar-part-1-pit-estimates-of-homelessness-in-the-us/
+
+Note that the JSON metadata file conforms to DataCite4 Standard (https://support.datacite.org/docs/schema-40), with the exception of the "Identifier" field, which is not a true DOI.
+
+Copyright: As a rule, all content-including written materials and graphics-on HUD's websites is in the public domain. Anyone can use or link to anymaterial written or created for HUD's Internet websites. (Source: https://www.hud.gov/sites/documents/WEBPUBSTANDARDS.PDF )
+
+
+Ongoing considerations:
+     A. This dataset still needs a long-term DOI string (as opposed to a GitHub or HudExchange URL).
+     B. Microsoft Excel program or similar is required to open the .xlxs file.
+     
+There is no personally identifiable information re: human subjects in this dataset.     
+     
